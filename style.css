@@ -1,5 +1,12 @@
 div{
-    height: 20vh;
+    height: 30vh;
     width: 40vw;
     background-color: thistle;
+    text-align: center;
+    padding-top: 40px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
